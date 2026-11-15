@@ -1,0 +1,6 @@
+looplab! uses LAME through the unmodified lamejs 1.2.1 browser build.
+LAME project: https://lame.sourceforge.io/
+Corresponding source and build scripts: https://registry.npmjs.org/lamejs/-/lamejs-1.2.1.tgz
+Source repository: https://github.com/zhuker/lamejs
+The encoder is a separate, replaceable file. See LGPL-3.0.txt, GPL-3.0.txt,
+and lamejs-LICENSE.txt for license terms and upstream notice.
